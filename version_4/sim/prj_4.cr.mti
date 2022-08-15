@@ -1,0 +1,29 @@
+E:/ICC/version_4/DW_sqrt.v {1 {vlog -work work -stats=none E:/ICC/version_4/DW_sqrt.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module DW_sqrt
+
+Top level modules:
+	DW_sqrt
+
+} {} {}} E:/ICC/version_4/tb.sv {1 {vlog -work work -sv -stats=none E:/ICC/version_4/tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module testfixture
+
+Top level modules:
+	testfixture
+
+} {} {}} E:/ICC/version_4/DW02_mult.v {1 {vlog -work work -stats=none E:/ICC/version_4/DW02_mult.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module DW02_mult
+
+Top level modules:
+	DW02_mult
+
+} {} {}} E:/ICC/version_4/DW_square.v {1 {vlog -work work -stats=none E:/ICC/version_4/DW_square.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module DW_square
+
+Top level modules:
+	DW_square
+
+} {} {}}
